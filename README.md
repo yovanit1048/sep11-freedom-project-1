@@ -2,10 +2,10 @@
 by Yovani Tellez
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about Babylon. The purpose of this blog is to record all the denteries over the time i work on my project.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making X ed environment. This blog will walk through my process of independently studying babylon in order to make 3d environment model.
 
 ## Links
 
