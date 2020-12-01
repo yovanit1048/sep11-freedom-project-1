@@ -1,7 +1,7 @@
 # Entry 2
 ##### 12/1/20
 
-AFter having days and hours choose and decide if i should go for this tool.And Have decide on [Babylon](https://www.babylonjs.com/community/)
+After having days and hours of doing [research](https://github.com/BabylonJS/BabylonNative) and having a feel for it,I Have decide on [Babylon](https://www.babylonjs.com/community/) as my primary tool.The problem im trying to slove by using Babylon is 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
