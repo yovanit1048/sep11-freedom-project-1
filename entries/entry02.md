@@ -1,7 +1,8 @@
 # Entry 2
-##### X/X/XX
+##### 12/1/20
 
-Text
+[I'm an inline-style link](https://www.google.com)
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
