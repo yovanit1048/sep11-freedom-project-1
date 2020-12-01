@@ -1,7 +1,7 @@
 # Entry 2
 ##### 12/1/20
 
-After having days and hours of doing [research](https://github.com/BabylonJS/BabylonNative) and other [soruce](https://doc.babylonjs.com/toolsAndResources/offsite) and having a feel for it,I have decide on [Babylon](https://www.babylonjs.com/community/) as my primary tool.An example of how Babylon can be used to make a 3D environment is by this code 
+After having days and hours of doing [research](https://github.com/BabylonJS/BabylonNative) and other [soruce](https://doc.babylonjs.com/toolsAndResources/offsite) and having a feel for it,I have decide on [Babylon](https://www.babylonjs.com/community/) as my primary tool.An example of how Babylon can be used to make a 3D environment is by this code below.This code changes the background color.This will create a foundtion of what you have in mind of what to create.
 
 ```
 scene.clearColor = BABYLON.Color3.Blue;
