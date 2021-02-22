@@ -41,6 +41,13 @@ var canvas = document.getElementById("render-canvas");
 ```
 By making this simple 3D objective learned how to create a rending loop that makes the scene visible and creating a camera that gives it the light on it. These two are important for any making anything in 3D it provides the fundamental details to start.
 
+# Skills
+
+The skills that I used were Attention to detail and How to Google
+
+I’ve used the skill Attention to detail while typing this blog entry, I’ve constantly have been copying and pasting what I write down here and then transferring it into a google doc which helps to see what spelling errors and grammar correction I need to make. By doing this it would make my blog entry a lot easier to read with minimal mistakes.
+
+I’ve used the skills How to Google while doing research for planning for my prototype I’ve constantly search what every little code did try to find easier ways to write it and even when it gave an explanation I would try to find more about that code and what it does. And also by searching up Babylon Javascript I’ve found many youtube video that was made in the last year or just a month ago which makes it more relevant because of how it has everything that I have compared to a 3-year-old video.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
