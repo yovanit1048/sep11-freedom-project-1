@@ -14,6 +14,10 @@ I'm currently at stage 4 Engineering Design Process: the most promising solution
 
 For the next stage Create a prototype, I plan to make a simple background with lighting and a couple of shapes which will not be that difficult since over my time doing research on Babylon those were demos and beginners steps that were recommended for people starting to work on Babylon. I will take the time until the next  entry to use what I’ve learned and make apply that to a small prototype that will display what I’ve learned and also along the way would like still to learn about possibles ways to better improve my small prototype.
 
+# Knowledge
+
+From the [youtube video](https://www.youtube.com/watch?v=eQH4273wy7w) and the [website](https://developer.mozilla.org/enUS/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Babylon.js?utm_campaign) Ive learned how to create a background and a 3D square and sphere:
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
