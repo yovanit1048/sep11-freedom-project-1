@@ -39,6 +39,7 @@ var canvas = document.getElementById("render-canvas");
     };
     engine.runRenderLoop(renderLoop);
 ```
+By making this simple 3D objective learned how to create a rending loop that makes the scene visible and creating a camera that gives it the light on it. These two are important for any making anything in 3D it provides the fundamental details to start.
 
 
 [Previous](entry02.md) | [Next](entry04.md)
