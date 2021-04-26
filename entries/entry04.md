@@ -23,7 +23,18 @@ camera.attachControl(canvas, true);
 ```
 This first line of code makes the light radiant up 1 of the y axis and changing makes the light radiant change by changing the x and y-axis. While the second line of code changes the brightness of the light by the amount that is inputted by the user. And the last code just attach the camera so it stays in one place.
 ```
-var createScene = function(){ var scene = new BABYLON.Scene(engine);              scene.clearColor = new BABYLON.Color3.White();                var box = BABYLON.Mesh.CreateBox("Box",4.0,scene);              var camera = new BABYLON.ArcRotateCamera("arcCam",                      BABYLON.Tools.ToRadians(45),                      BABYLON.Tools.ToRadians(45),                      10.0,box.position,scene);              camera.attachControl(canvas,true);                return scene;          
+var createScene = function(){ var scene = new BABYLON.Scene(engine);              scene.clearColor = new BABYLON.Color3.White();                var box = BABYLON.Mesh.CreateBox("Box",4.0,scene);              var camera = new BABYLON.ArcRotateCamera("arcCam",                      BABYLON.Tools.ToRadians(45),                      BABYLON.Tools.ToRadians(45),                      10.0,box.position,scene);              camera.attachControl(canvas,true);                return scene; 
+```
+This code dealing with cameras makes it move in the [model](https://gamefromscratch.com/babylonjs-tutorial-series-cameras/). This can be used to move the camera around and with its more advanced feature, I found it can be controlled by the user keyboard to make it move where ever it wants. 
+
+# Skills
+
+The skills that I used were Attention to detail and Time management 
+
+I’ve used the skill Attention to detail while typing this blog entry, I’ve constantly have been copying and pasting what I write down here and then transferring it into a google doc which helps to see what spelling errors and grammar correction I need to make. By doing this it would make my blog entry a lot easier to read with minimal mistakes.
+
+I've used my MVP plan and try trying to follow my MVP plan and try to make liitle by little changes so its easier to see what needs to be changed and more. I also been very bussise with studying for the SAT and trying to find tIme where I can learn a bit more about babylon so i could peaper for this day and my prototpe. Also, time mangement with college being close to and which cause time to think over what my future and reascher soi i can plan for later.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
