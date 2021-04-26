@@ -23,8 +23,7 @@ camera.attachControl(canvas, true);
 ```
 This first line of code makes the light radiant up 1 of the y axis and changing makes the light radiant change by changing the x and y-axis. While the second line of code changes the brightness of the light by the amount that is inputted by the user. And the last code just attach the camera so it stays in one place.
 ```
-
-```
+var createScene = function(){ var scene = new BABYLON.Scene(engine);              scene.clearColor = new BABYLON.Color3.White();                var box = BABYLON.Mesh.CreateBox("Box",4.0,scene);              var camera = new BABYLON.ArcRotateCamera("arcCam",                      BABYLON.Tools.ToRadians(45),                      BABYLON.Tools.ToRadians(45),                      10.0,box.position,scene);              camera.attachControl(canvas,true);                return scene;          
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
